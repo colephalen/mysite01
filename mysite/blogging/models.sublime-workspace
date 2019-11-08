@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_fact"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"func",
+				"func_name"
+			],
+			[
+				"fun",
+				"funcs"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"res",
+				"response_path"
+			],
+			[
+				"mime",
+				"mime_type"
+			],
+			[
+				"dir",
+				"directory2"
+			],
+			[
+				"di",
+				"directory1"
+			],
+			[
+				"web",
+				"webroot"
+			],
+			[
+				"respon",
+				"response_method_not_allowed"
+			],
+			[
+				"N",
+				"NotImplementedError"
+			],
+			[
+				"Not",
+				"NotImplementedError"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"out",
+				"output_buffer"
+			],
+			[
+				"mov",
+				"movement_d"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"input",
+				"input_buffer"
+			],
+			[
+				"clie",
+				"client_connection"
+			],
+			[
+				"output",
+				"output_buffer"
+			],
+			[
+				"c",
+				"connection"
+			],
+			[
+				"conn",
+				"connections"
+			],
+			[
+				"server",
+				"server_address"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"don",
+				"donor_name"
+			],
+			[
+				"donor",
+				"donor_name"
+			],
+			[
+				"h",
+				"home"
+			],
+			[
+				"donation",
+				"donation_made"
+			],
+			[
+				"dona",
+				"donated_value"
+			],
+			[
+				"Don",
+				"Donation"
+			],
+			[
+				"dono",
+				"donor_name"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"new",
+				"new_d"
+			],
+			[
+				"D",
+				"DateTimeField"
+			],
+			[
+				"s",
+				"save"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/colephalen/python-cert-q3/Lesson06/Assignment/mysite/polling/admin.py",
+		"/Users/colephalen/python-cert-q3/Lesson06/Assignment/mysite/polling/models.py",
+		"/Users/colephalen/python-cert-q3/Lesson06/Assignment/mysite/polling/views.py",
+		"/Users/colephalen/python-cert-q3/Lesson05/Activity/zip_data.txt",
+		"/Users/colephalen/python-cert-q3/Lesson05/Activity/requirements.txt",
+		"/Users/colephalen/python-cert-q3/Lesson05/Activity/Procfile",
+		"/Users/colephalen/python-cert-q3/Lesson04/Assignment/wsgi-calculator/README.md",
+		"/Users/colephalen/python-cert-q3/Lesson04/Assignment/wsgi-calculator/tests.py",
+		"/Users/colephalen/python-cert-q3/Lesson04/Assignment/wsgi-calculator/calculator.py",
+		"/Users/colephalen/python-cert-q3/Lesson04/Activity/cgi/cgi-bin/hello_world.py",
+		"/Users/colephalen/python-cert-q3/Lesson04/Activity/cgi/index.html",
+		"/Users/colephalen/python-cert-q3/Lesson04/Activity/cgi/cgi-bin/cgi_sums.py",
+		"/Users/colephalen/python-cert-q3/Lesson04/Activity/cgi/cgi-bin/cgi_2.py",
+		"/Users/colephalen/python-cert-q3/Lesson04/Activity/cgi/cgi-bin/cgi_1.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Assignment/socket-http-server/tests.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Assignment/socket-http-server/unit-tests.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Assignment/socket-http-server/http_server.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Activity/socket-adventure/server.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Activity/socket-adventure/serve.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Activity/socket-adventure/client.py",
+		"/Users/colephalen/python-cert-q3/Lesson03/Sesh03.txt",
+		"/Users/colephalen/python-cert-q3/Lesson02/Activity/streams-exercise/tests.py",
+		"/Users/colephalen/python-cert-q3/Lesson02/Activity/streams-exercise/try.py",
+		"/Users/colephalen/python-cert-q3/Lesson02/Activity/streams-exercise/stream_exercise.py",
+		"/Users/colephalen/python-cert-q3/Lesson01/Assignment/flask-mailroom/templates/new_d.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Assignment/flask-mailroom/templates/donations.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Assignment/flask-mailroom/templates/base.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Assignment/flask-mailroom/setup.py",
+		"/Users/colephalen/python-cert-q3/Lesson02/sesh02.txt",
+		"/Users/colephalen/python-cert-q3/Lesson01/Assignment/flask-mailroom/model.py",
+		"/Users/colephalen/python-cert-q3/Lesson01/Assignment/flask-mailroom/main.py",
+		"/Users/colephalen/python-cert-q3/Lesson01/flask-calc/templates/base.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/templates/create.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/templates/all.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/templates/incomplete.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/templates/login.jinja2",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/setup.py",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/model.py",
+		"/Users/colephalen/python-cert-q3/Lesson01/Activity/flask-todo/main.py",
+		"/Users/colephalen/230-Advanced-Autumn-2019/Lesson01/Activity/flask-todo/templates/base.jinja2"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
